@@ -24,7 +24,7 @@ class ProfileScreen extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: const [
                       Text(
-                        'John or Jane Doe',
+                        'Pawanpreet kaur',
                         style: TextStyle(
                           fontSize: 24,
                           fontWeight: FontWeight.bold,
@@ -82,4 +82,3 @@ class ProfileScreen extends StatelessWidget {
     );
   }
 }
-
